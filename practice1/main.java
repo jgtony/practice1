@@ -72,6 +72,7 @@ public class main {
 						}
 					}
 					ps.println("");
+					ps.println("hhehakdlajdf");
 				}
 			}
 			else if(mode.equals("scc") || mode.equals("SCC"))
